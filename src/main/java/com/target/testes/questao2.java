@@ -1,3 +1,4 @@
+package src.main.java.com.target.testes;
 import java.util.Scanner;
 import java.util.List;
 import java.util.ArrayList;

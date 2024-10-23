@@ -23,7 +23,7 @@ IMPORTANTE:
 a) Usar o json ou xml disponível como fonte dos dados do faturamento mensal;
 b) Podem existir dias sem faturamento, como nos finais de semana e feriados. Estes dias devem ser ignorados no cálculo da média;
 
-RESPOSTA: 
+RESPOSTA: questao3.java
 
 4) Dado o valor de faturamento mensal de uma distribuidora, detalhado por estado:
 • SP – R$67.836,43
@@ -34,7 +34,7 @@ RESPOSTA:
 
 Escreva um programa na linguagem que desejar onde calcule o percentual de representação que cada estado teve dentro do valor total mensal da distribuidora.  
 
-RESPOSTA: 
+RESPOSTA: questao4.java
 
 5) Escreva um programa que inverta os caracteres de um string.
 
@@ -43,4 +43,4 @@ a) Essa string pode ser informada através de qualquer entrada de sua preferênc
 b) Evite usar funções prontas, como, por exemplo, reverse;
 
 
-RESPOSTA: 
+RESPOSTA: questao5.java
